@@ -39,7 +39,7 @@ S6 = IngenieurSenior("Cadylle", "Christine", 7, 890, 1888, 499, 5700, 970, "chef
 F2.ajouterSalarie(S6)
 M.afficher()
 
-F3.supprimerSalarie(S2)
+F3.supprimerSalarie(S2)))
 M.afficher()
 
 F3.supprimerSalarie(S3)
